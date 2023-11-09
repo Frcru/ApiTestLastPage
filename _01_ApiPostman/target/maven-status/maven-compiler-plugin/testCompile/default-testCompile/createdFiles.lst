@@ -1,0 +1,5 @@
+test\SwapiTest.class
+steps\UserSearchSteps.class
+test\RestAssuredApiTest.class
+test\ServicesTest.class
+test\ApiTestWithStep.class
